@@ -2,5 +2,4 @@
 CSCI 3308 Repository for Spring 2016
 Jessica Delaney
 Lab 3, Version Control
-
-This might cause a merge conflict
+Partner: Alex Sheehan
